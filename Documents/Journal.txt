@@ -1,0 +1,4 @@
+All Journal Entries pertaining to Animation2
+
+December 13, 2017
+-Split off Animation2 from Menubutton2 in order to isolate Animation and get it to work
